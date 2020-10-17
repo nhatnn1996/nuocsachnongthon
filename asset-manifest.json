@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/nuocsachnongthon/static/css/main.94737881.chunk.css",
+    "main.js": "/nuocsachnongthon/static/js/main.c6f1fc04.chunk.js",
+    "main.js.map": "/nuocsachnongthon/static/js/main.c6f1fc04.chunk.js.map",
+    "runtime-main.js": "/nuocsachnongthon/static/js/runtime-main.2c617789.js",
+    "runtime-main.js.map": "/nuocsachnongthon/static/js/runtime-main.2c617789.js.map",
+    "static/css/2.e10332d9.chunk.css": "/nuocsachnongthon/static/css/2.e10332d9.chunk.css",
+    "static/js/2.105b1a9d.chunk.js": "/nuocsachnongthon/static/js/2.105b1a9d.chunk.js",
+    "static/js/2.105b1a9d.chunk.js.map": "/nuocsachnongthon/static/js/2.105b1a9d.chunk.js.map",
+    "index.html": "/nuocsachnongthon/index.html",
+    "precache-manifest.c1d1054ae79141c10857842a80769d69.js": "/nuocsachnongthon/precache-manifest.c1d1054ae79141c10857842a80769d69.js",
+    "service-worker.js": "/nuocsachnongthon/service-worker.js",
+    "static/css/2.e10332d9.chunk.css.map": "/nuocsachnongthon/static/css/2.e10332d9.chunk.css.map",
+    "static/css/main.94737881.chunk.css.map": "/nuocsachnongthon/static/css/main.94737881.chunk.css.map",
+    "static/js/2.105b1a9d.chunk.js.LICENSE.txt": "/nuocsachnongthon/static/js/2.105b1a9d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c617789.js",
+    "static/css/2.e10332d9.chunk.css",
+    "static/js/2.105b1a9d.chunk.js",
+    "static/css/main.94737881.chunk.css",
+    "static/js/main.c6f1fc04.chunk.js"
+  ]
+}
